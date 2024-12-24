@@ -15,6 +15,13 @@ Whether you’re working with text-based PDFs or image-heavy documents, this too
 	•	💻 User-Friendly Interface: Built with Streamlit, enabling easy uploads and data previews.<br>
 
 ## 🚀 How to Use
+### Step 1: Clone the Repository
+Start by cloning the repository to your local machine: <br>
+
+git clone https://github.com/Harish9215/Automated_Text_Extraction-and-More.git
+cd Automated_Text_Extraction-and-More
+
+
  ### 4.	Upload your PDF and let the magic happen! 🪄
  
  ### 🛠️ Tech Stack
