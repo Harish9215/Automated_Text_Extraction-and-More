@@ -1,3 +1,4 @@
+## 🚀 Automated Data Extraction from PDFs 📄
 Effortlessly extract structured data from unstructured PDF documents!
 
 🌟 Overview
